@@ -1,0 +1,19 @@
+html{font-size: 40px;
+}
+
+body{
+background-color: rgb(132, 174, 214);
+}
+
+section{
+    background-color: crimson;
+    height: 60px;
+    margin-bottom: 25x;
+    margin-top: 40px;
+    margin-left:70px; 
+    margin-right:10px;
+    width: 580px;
+    margin: 10px auto;
+}
+
+
